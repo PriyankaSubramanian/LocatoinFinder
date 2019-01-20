@@ -1,0 +1,13 @@
+.searchWrapper {
+  padding-top: 10%;
+}
+.searchedDetails {
+  width: 80%;
+  margin: 0px auto; 
+  max-width: 700px;
+  background-color: bisque;
+}
+.locationWrapper button, .locationWrapper button:hover{
+  border-radius: 0px;
+  background-color: black;
+}
